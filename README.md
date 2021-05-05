@@ -17,3 +17,5 @@ This app is also responsive, tested on iPhone X/XS : <br><br>
 4. Place the downloaded video to `/assets/video/`.<br />
 Note: Path of the video looks like this `/assets/video/thailand.mp4`.
 5. Open `index.html` in a browser (make sure you have enabled javascript).
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/wonderful-thailand)](https://github.com/kevinadhiguna)
